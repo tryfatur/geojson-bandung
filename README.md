@@ -5,3 +5,11 @@ Data ini di ambil dari aplikasi [Geodatabase Pusdalisbang Jawab Barat] (http://g
 
 # Data yang Tersedia
 Data yang tersedia adalah batas-batas kecamatan dan kelurahan dalam format GeoJSON/JSON.
+
+# Bug
+Masih terdapat ketidak sesuaian pada kecamatan:
+- Arcamanik;
+- Antapani;
+- Rancasari;
+- Gedebage; dan
+- Mandalajati
