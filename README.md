@@ -5,9 +5,6 @@ Ini adalah repositori batas-batas administratif kota Bandung berdasarkan
 # Data yang Tersedia
 Data yang tersedia adalah batas-batas zonasi kewilayahan, kecamatan dan kelurahan dalam format GeoJSON/JSON.
 
-# Bug
-Masih terdapat ketidak sesuaian data pada kecamatan (dan kelurahan di dalamnya) Rancasari dan Gedebage.
-
 # Format Penamaan Dokumen
 Format yang digunakan dalam penamaan dokumen kewilayahan sebagai berikut
 _(kode-kota-bandung)-(nama-swk)-(nama-kecamatan)-(nama-kelurahan).json_
